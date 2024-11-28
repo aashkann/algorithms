@@ -1,2 +1,2 @@
 # algorithms
- collection of algorithms practices
+ collection of algorithm practices
