@@ -13,6 +13,7 @@ public class quickUnion {
         return i;
     }
 
+
     // Check if two nodes are connected
     public boolean connected(int p, int q) {
         return root(p) == root(q);
