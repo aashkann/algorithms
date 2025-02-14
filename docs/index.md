@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 title: "Logistic Regression Training"
 mathjax: true
+permalink: /logistic_regression_training_al
 ---
 
 # Logistic Regression Training Algorithm
